@@ -3,8 +3,8 @@
 
 
 ## GitHub Repository: Currently private, available to genuine developers upon request to the [owner](https://github.com/100ravSingh).
-## Product Demo: [Link](https://youtu.be/6m9XcFSjViw?si=gf7Bp8o4jxjh9ACD)
-## For Docker: [Link](https://hub.docker.com/r/sunny31011998/road-quality)
+## Product Demo: [link](https://youtu.be/6m9XcFSjViw?si=gf7Bp8o4jxjh9ACD)
+## For Docker: [link](https://hub.docker.com/r/sunny31011998/road-quality)
 ### docker run -d -p 80:80 sunny31011998/road-quality:latest
 ### Application start running in a container:  local_ip:80 or 0.0.0.0:80
 
